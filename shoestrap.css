@@ -8,6 +8,17 @@ div {
     border: 1px solid red;
 }
 
+.row:before {
+    display: table;
+    content: "";
+}
+
+.row:after {
+    display: table;
+    content: "";
+    clear: both;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
