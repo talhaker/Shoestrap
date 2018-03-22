@@ -3,6 +3,61 @@
     width: 8.33333333%;
 }
 
+.col-2 {
+    float: left;
+    width: calc(2 * 8.33333333%);
+}
+
+.col-3 {
+    float: left;
+    width: calc(3 * 8.33333333%);
+}
+
+.col-4 {
+    float: left;
+    width: calc(4 * 8.33333333%);
+}
+
+.col-5 {
+    float: left;
+    width: calc(5 * 8.33333333%);
+}
+
+.col-6 {
+    float: left;
+    width: calc(6 * 8.33333333%);
+}
+
+.col-7 {
+    float: left;
+    width: calc(7 * 8.33333333%);
+}
+
+.col-8 {
+    float: left;
+    width: calc(8 * 8.33333333%);
+}
+
+.col-9 {
+    float: left;
+    width: calc(9 * 8.33333333%);
+}
+
+.col-10 {
+    float: left;
+    width: calc(10 * 8.33333333%);
+}
+
+.col-11 {
+    float: left;
+    width: calc(11 * 8.33333333%);
+}
+
+.col-12 {
+    float: left;
+    width: calc(12 * 8.33333333%);
+}
+
 div {
     height: 50px;
     border: 1px solid red;
